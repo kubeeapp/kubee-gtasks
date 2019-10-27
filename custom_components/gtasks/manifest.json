@@ -1,6 +1,6 @@
 {
-  "domain": "kubee-gtasks",
-  "name": "Kubee GTasks",
+  "domain": "gtasks",
+  "name": "GTasks",
   "documentation": "https://github.com/kubeeapp/kubee-gtasks",
   "dependencies": [],
   "config_flow": true,
