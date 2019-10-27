@@ -2,7 +2,7 @@
 Component to integrate with gtasks.
 
 For more details about this component, please refer to
-https://github.com/BlueBlueBlob/gtasks
+https://github.com/kubeeapp/kubee-gtasks
 """
 import os
 from datetime import timedelta, date

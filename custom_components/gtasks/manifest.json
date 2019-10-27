@@ -1,11 +1,11 @@
 {
-  "domain": "gtasks",
-  "name": "GTasks",
-  "documentation": "https://github.com/BlueBlueBlob/gtasks",
+  "domain": "kubee-gtasks",
+  "name": "Kubee GTasks",
+  "documentation": "https://github.com/kubeeapp/kubee-gtasks",
   "dependencies": [],
   "config_flow": true,
   "codeowners": [
-    "@BlueBlueBlob"
+    "@KubeeApp"
   ],
   "requirements": [
     "keyrings.alt",

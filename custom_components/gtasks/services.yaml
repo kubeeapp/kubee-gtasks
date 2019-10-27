@@ -20,4 +20,3 @@ complete_task:
       example: 'tasks to complete'
     task_list:
       example: 'Tasks list'
-

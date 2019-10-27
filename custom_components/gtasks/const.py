@@ -13,7 +13,7 @@ REQUIRED_FILES = [
     "services.yaml",
     "binary_sensor.py",
 ]
-ISSUE_URL = "https://github.com/BlueBlueBlob/gtasks/issues"
+ISSUE_URL = "https://github.com/kubeeapp/kubee-gtasks/issues"
 ATTRIBUTION = "Data from this is provided by gtasks."
 
 # Icons
